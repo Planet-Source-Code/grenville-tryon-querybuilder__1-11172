@@ -1,0 +1,68 @@
+ENGLISH
+-------
+New on QueryBuilder:
+
+*English & Spanish interfaces
+	Now, on the carga.bas you wil find a language variable. 
+	-0 will show the SW on English,
+	-1 will show it on Spanish.
+
+*Move the Treeview/Query windows to left/right.
+	- To make enough space for each one, as you need.
+
+*Show attributes of fields
+	-Type and length for each column.
+
+*Create a 'create table' sentence directly.
+	- To create the query, based on the DD of each table.
+
+*Create a DD on ClipBoard
+	- To import to other SW.
+
+*Split a sentence imported from ClipBoard to fit your needs
+	- When you want to analize a query extracted from VB,
+	  the query comes as an unique large chain. With this
+	  feature, you can split the sentence.
+
+*Space on the Treeview set the selected column on the query.
+*Alt on the result window returns to the query builder window.
+*The Cancel quits minimize the program.
+
+
+Any questions, doubts, offer of job to:
+gtryonp@afphorizonte.com.pe
+
+
+ESPAÑOL:
+--------
+Nuevo en QueryBuilder:
+
+*Interfaces en Ingles & Espanol
+	Ahora, en el carga.bas encontraran una variable, language.
+	-0 mostara el SW en Ingles,
+	-1 lo mostrara en Español.
+
+*Mueva las ventanas de Treeview/sentencia a izquierda/derecha
+	- Para hacer suficiente espacio para cada una, segun necesidad.
+
+*Muestra atributos de los campos
+	-Tipo  longitud de cada campo.
+
+*Crea la sentencia 'create table' directamente
+	- Crea la sentencia SQL para crear cada tabla.
+
+*Crea el DD en el ClipBoard
+	- Para importar desde otro SW.
+
+*Parte una sentencia para cubrir sus necesidades
+	- Cuando desea analizar una sentencia extraida del VB,
+	  esta viene como una larga cadena. Con esta opcion,
+	  Ud puede partir la sentencia.
+
+*Espacio en el Treeview pondra la columna activa como parte de la sentencia.
+*Alt en la ventana de resultados lo lleva a la ventana de sentencias.
+*Si al salir, cancela l operacion, la ventana se minimiza.
+
+
+Cualquier pregunta, duda, oferta de trabajo, a:
+gtryonp@afphorizonte.com.pe
